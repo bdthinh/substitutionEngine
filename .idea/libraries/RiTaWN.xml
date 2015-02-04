@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="RiTaWN">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/RiTaWN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/supportWN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

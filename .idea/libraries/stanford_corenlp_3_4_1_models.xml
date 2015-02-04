@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="stanford-corenlp-3.4.1-models">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/stanford-corenlp-3.4.1-models.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/stanford-corenlp-3.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/lib/stanford-corenlp-3.4.1-models.jar!/" />
+    </SOURCES>
+  </library>
+</component>

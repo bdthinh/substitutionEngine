@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="commonLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/ac.biu.nlp.normalization.BiuNormalizer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/com.strangegizmo.cdb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-compress-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/edu.mit.jwi_2.3.3_jdk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-lang-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/lib/edu.mit.jwi_2.3.3_jdk.jar!/" />
+    </SOURCES>
+  </library>
+</component>
